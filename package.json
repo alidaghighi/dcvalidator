@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "scripts": {
     "client": "cd web-app && yarn start",
-    "server": "cd server && python server.py",
+    "server": "cd server && python3 server.py",
     "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\"",
     "install-client": "cd web-app && yarn install",
-    "install-server": "cd server && pip install --no-cache-dir -r requirements.txt"
+    "install-server": "cd server && pip3 install --no-cache-dir -r requirements.txt"
   },
   "dependencies": {
   },

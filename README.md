@@ -77,13 +77,9 @@ Well this might happened to every newcomer with docker-compose!<br />
 <br />
 **********************************************************************************************************
 
-## How to use it
-Just go [HERE](http://160.85.252.231:3000/) and enjoy!
 
-
-
-## How to make it better
-Make sure you have node.JS, npm, yarn, python 3, pip on your machine.
+## How to make it better and use it!
+Make sure you have node.JS, npm, yarn, python3, pip3 on your machine.
 <br />Then follow these steps:
 <br />
 <b>
